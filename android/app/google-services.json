@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "383033819426",
+    "firebase_url": "https://geo-locator-23419-default-rtdb.firebaseio.com",
+    "project_id": "geo-locator-23419",
+    "storage_bucket": "geo-locator-23419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383033819426:android:edf0659fbac5dcf0e7657b",
+        "android_client_info": {
+          "package_name": "cakewalk.geo.locator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383033819426-07eta4o9k1aeq706biheirb5t0q60vlu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cakewalk.geo.locator",
+            "certificate_hash": "14c2a43e4160aaebd8e263870aa0eb5729958da5"
+          }
+        },
+        {
+          "client_id": "383033819426-2qlbrebk082j1b99ovc5kg8cl9avhokm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cakewalk.geo.locator",
+            "certificate_hash": "d6d1bfe9786f60acf9793fb62b208d424f5ad14e"
+          }
+        },
+        {
+          "client_id": "383033819426-kp08m7hfrdmj8qgfa4lpf1qm8d81a3e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cakewalk.geo.locator",
+            "certificate_hash": "a9064f25dc6aef2ab2ca98075bf7e1eb65dc423f"
+          }
+        },
+        {
+          "client_id": "383033819426-7vj9asig2vk7ubbp0rht6hq88svp8ulc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDna4lgDBVnpLRsrKOkYs2R9wWnmHQVTRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383033819426-7vj9asig2vk7ubbp0rht6hq88svp8ulc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
